@@ -85,12 +85,10 @@ Alternatif Akışlar:
 
 Geçersiz Giriş Bilgileri: Kullanıcı, yanlış e-posta adresi veya şifre girerse, uygulama kullanıcıyı hatalı giriş bilgileri konusunda uyarır ve bilgilerin doğru olup olmadığını kontrol etmesini ister.
 Şifreyi Unutma: Kullanıcı, şifresini unutmuşsa, "Şifremi Unuttum" seçeneğine tıklayarak şifre sıfırlama işlemi yapabilir.
+
 Sonuçlar: Kullanıcı başarılı bir şekilde "PetFix" uygulamasına giriş yapar ve uygulamayı kullanmaya başlar.
 
 ------------
-
-
-
 
 ### 4. Profil Oluşturma 
 
@@ -115,7 +113,9 @@ Temel Akış:
 Alternatif Akışlar:
 
 Geçersiz Bilgiler: Kullanıcı, geçersiz veya eksik bilgilerle profil oluşturmaya çalışırsa, uygulama kullanıcıyı uyarmalı ve gerekli bilgilerin tam olarak girilmesini sağlamalıdır.
+
 Profil Resmi Ekleme: Kullanıcı, profil oluşturma sürecinde profil resmi eklemeyi tercih edebilir. Bu durumda uygulama, kullanıcıya profil resmi yükleme seçeneği sunmalıdır.
+
 Sonuçlar: Kullanıcı başarılı bir şekilde "PetFix" uygulamasında kendi profilini oluşturur ve diğer kullanıcılarla etkileşime geçmeye başlar.
 
 ------------
@@ -143,13 +143,12 @@ Temel Akış:
 Alternatif Akışlar:
 
 Zaten Takip Ediliyor: Kullanıcı, zaten takip etmeye çalıştığı kullanıcıyı zaten takip ediyorsa, uygulama kullanıcıyı uyarır ve bu durumu bildirir.
+
 Takip İptali: Kullanıcı, daha önce takip ettiği bir kullanıcıyı takipten çıkarmak isterse, ilgili düğmeye tıklayarak takibi iptal edebilir.
+
 Sonuçlar: Kullanıcı başarılı bir şekilde başka bir kullanıcıyı takip eder ve takip işlemi gerçekleşir.
 
 ------------
-
-
-
 
 ### 6. Beğeni Ekleme 
 
@@ -172,7 +171,9 @@ Temel Akış:*
 Alternatif Akışlar:
 
 Beğeni Kaldırma: Kullanıcı, daha önce beğendiği bir gönderiyi beğenmekten vazgeçmek isterse, "Beğeni" düğmesine tekrar tıklayarak beğenisini kaldırabilir.
+
 Gönderi Yoksa: Kullanıcı, beğeni eklemek istediği bir gönderi bulamazsa, uygulama kullanıcıya uygun bir mesaj gösterir ve başka gönderilere göz atmaya teşvik eder.
+
 Sonuçlar: Kullanıcı başarılı bir şekilde bir gönderiye beğeni ekler ve gönderinin beğeni sayısı güncellenir.
 
 
@@ -204,7 +205,9 @@ Temel Akış:
 Alternatif Akışlar:
 
 Biyografi ve Bağlantıyı Silme: Kullanıcı, daha önce eklediği biyografiyi ve bağlantıyı silmek isterse, "Biyografi Düzenle" seçeneğinden metin alanını temizleyebilir ve bağlantı kutucuğunu boş bırakabilir.
+
 Geçersiz Bağlantı: Kullanıcı, bağlantı eklerken geçersiz bir URL girerse, uygulama kullanıcıyı uyarır ve geçerli bir URL girmesini ister.
+
 Sonuçlar: Kullanıcı başarılı bir şekilde "PetFix" profilinde biyografi ve bağlantı ekler ve bu bilgileri profilinde görüntüleyebilir.
 
 ------------
@@ -234,11 +237,12 @@ Temel Akış:
 6. Kullanıcı, istenmeyen bir kullanıcıyı engellemek için, kullanıcının profil sayfasına veya ilgili gönderisine giderek "Engelle" veya benzeri bir seçeneği tıklar.
 7. Kullanıcı, engelleme işlemi için onay verir.
 8. İlgili kullanıcı artık kullanıcının içeriklerini göremez veya kullanıcıya mesaj gönderemez.
+
 Alternatif Akışlar:
 
 Raporlama Sonrası İletişim: Kullanıcı, raporlama işleminden sonra rahatsız edici içeriğin veya kullanıcının iletişimi devam ederse, kullanıcı destek ekibiyle iletişime geçebilir.
-Sonuçlar:  Kullanıcı, istenmeyen içerikleri raporlayarak veya kullanıcıları engelleyerek "PetFix" uygulamasındaki deneyimini güvenli hale getirir.
 
+Sonuçlar:  Kullanıcı, istenmeyen içerikleri raporlayarak veya kullanıcıları engelleyerek "PetFix" uygulamasındaki deneyimini güvenli hale getirir.
 
 ------------
 
@@ -260,9 +264,11 @@ Temel Akış:
 4. Uygulama, kullanıcının girdiği anahtar kelimelere veya kullanıcı adına göre arama yapar.
 5. Uygulama, ilgili sonuçları kullanıcıya gösterir.
 6. Kullanıcı, arama sonuçları arasında gezinir ve istediği içeriği veya kullanıcıyı bulur.
+
 Alternatif Akışlar:
 
 Yetersiz Sonuçlar: Kullanıcı, arama sonuçlarının yetersiz veya istenmeyen olduğunu düşünürse, arama terimlerini veya stratejisini değiştirerek yeniden arama yapabilir.
+
 Sonuçlar: Kullanıcı, "PetFix" uygulamasında başarılı bir şekilde arama yaparak istediği içeriği veya kullanıcıyı bulur.
 
 ------------
@@ -271,6 +277,7 @@ Sonuçlar: Kullanıcı, "PetFix" uygulamasında başarılı bir şekilde arama y
 
 
 ### 10. Filtreleme (Arama Çubuğu) 
+
 Senaryo Adı: Kullanıcı Arama Sonuçlarını Filtreliyor
 
 Amaç: Kullanıcının "PetFix" uygulamasında yaptığı arama sonuçlarını belirli kriterlere göre filtrelemesini sağlamak.
@@ -287,9 +294,11 @@ Temel Akış:
 4. Kullanıcı, istediği filtreleme seçeneklerini seçer.
 5. Uygulama, kullanıcının seçtiği kriterlere göre arama sonuçlarını günceller ve yeniden gösterir.
 6. Kullanıcı, filtrelenmiş sonuçlar arasında gezinir ve istediği içeriği bulur.
+
 Alternatif Akışlar:
 
 Filtreleme Kaldırma: Kullanıcı, filtreleme kriterlerini değiştirmek veya kaldırmak isterse, "Filtreleme Kaldır" veya benzeri bir seçeneği tıklayarak filtrelemeyi kaldırabilir.
+
 Sonuçlar: Kullanıcı, "PetFix" uygulamasında yaptığı arama sonuçlarını belirli kriterlere göre filtreleyerek istediği içeriği daha kolay bulur.
 
 ------------

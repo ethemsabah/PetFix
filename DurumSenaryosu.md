@@ -160,7 +160,7 @@ Aktörler: Kullanıcı
 
 Ön Koşullar: Kullanıcı, uygulamaya başarılı bir şekilde giriş yapmış olmalıdır ve beğeni ekleyeceği gönderiye erişim sağlamalıdır.
 
-Temel Akış:*
+Temel Akış:
 
 1. Kullanıcı, "PetFix" uygulamasını açar ve ana ekranındaki gönderilere göz atar.
 2. Kullanıcı, beğeni eklemek istediği gönderiyi bulur.

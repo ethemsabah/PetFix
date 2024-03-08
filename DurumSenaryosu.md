@@ -3,7 +3,7 @@
 
 **Senaryo Adı:** Kullanıcı Kaydoluyor
 
-**Amaç: **Kullanıcının "PetFix" uygulamasına kaydolmasını sağlamak.
+**Amaç: ** Kullanıcının "PetFix" uygulamasına kaydolmasını sağlamak.
 
 **Aktörler:** Kullanıcı
 
@@ -114,8 +114,8 @@
 **Alternatif Akışlar:**
 
 **Geçersiz Bilgiler:** Kullanıcı, geçersiz veya eksik bilgilerle profil oluşturmaya çalışırsa, uygulama kullanıcıyı uyarmalı ve gerekli bilgilerin tam olarak girilmesini sağlamalıdır.
-**Profil Resmi Ekleme: **Kullanıcı, profil oluşturma sürecinde profil resmi eklemeyi tercih edebilir. Bu durumda uygulama, kullanıcıya profil resmi yükleme seçeneği sunmalıdır.
-**Sonuçlar: **Kullanıcı başarılı bir şekilde "PetFix" uygulamasında kendi profilini oluşturur ve diğer kullanıcılarla etkileşime geçmeye başlar.
+**Profil Resmi Ekleme: ** Kullanıcı, profil oluşturma sürecinde profil resmi eklemeyi tercih edebilir. Bu durumda uygulama, kullanıcıya profil resmi yükleme seçeneği sunmalıdır.
+**Sonuçlar: ** Kullanıcı başarılı bir şekilde "PetFix" uygulamasında kendi profilini oluşturur ve diğer kullanıcılarla etkileşime geçmeye başlar.
 
 ------------
 
@@ -183,7 +183,7 @@
 
 **Senaryo Adı:** Kullanıcı Biyografi ve Bağlantı Ekliyor
 
-**Amaç: **Kullanıcının "PetFix" profilinde biyografi ve bağlantı eklemesini sağlamak.
+**Amaç: ** Kullanıcının "PetFix" profilinde biyografi ve bağlantı eklemesini sağlamak.
 
 **Aktörler:** Kullanıcı
 
@@ -204,7 +204,7 @@
 
 **Biyografi ve Bağlantıyı Silme:** Kullanıcı, daha önce eklediği biyografiyi ve bağlantıyı silmek isterse, "Biyografi Düzenle" seçeneğinden metin alanını temizleyebilir ve bağlantı kutucuğunu boş bırakabilir.
 **Geçersiz Bağlantı:** Kullanıcı, bağlantı eklerken geçersiz bir URL girerse, uygulama kullanıcıyı uyarır ve geçerli bir URL girmesini ister.
-**Sonuçlar: **Kullanıcı başarılı bir şekilde "PetFix" profilinde biyografi ve bağlantı ekler ve bu bilgileri profilinde görüntüleyebilir.
+**Sonuçlar: ** Kullanıcı başarılı bir şekilde "PetFix" profilinde biyografi ve bağlantı ekler ve bu bilgileri profilinde görüntüleyebilir.
 
 ------------
 
@@ -216,7 +216,7 @@
 
 **Senaryo Adı:** Kullanıcı Raporlama ve Engelleme İşlemi Gerçekleştiriyor
 
-**Amaç: **Kullanıcının istenmeyen içerikleri raporlayarak veya kullanıcıları engelleyerek "PetFix" uygulamasındaki deneyimini güvenli hale getirmek.
+**Amaç: ** Kullanıcının istenmeyen içerikleri raporlayarak veya kullanıcıları engelleyerek "PetFix" uygulamasındaki deneyimini güvenli hale getirmek.
 **
 Aktörler:** Kullanıcı
 
@@ -236,7 +236,7 @@ Aktörler:** Kullanıcı
 **Alternatif Akışlar:**
 
 Raporlama Sonrası İletişim: Kullanıcı, raporlama işleminden sonra rahatsız edici içeriğin veya kullanıcının iletişimi devam ederse, kullanıcı destek ekibiyle iletişime geçebilir.
-**Sonuçlar: **Kullanıcı, istenmeyen içerikleri raporlayarak veya kullanıcıları engelleyerek "PetFix" uygulamasındaki deneyimini güvenli hale getirir.
+**Sonuçlar: ** Kullanıcı, istenmeyen içerikleri raporlayarak veya kullanıcıları engelleyerek "PetFix" uygulamasındaki deneyimini güvenli hale getirir.
 
 
 ------------
@@ -247,7 +247,7 @@ Raporlama Sonrası İletişim: Kullanıcı, raporlama işleminden sonra rahatsı
 
 **Amaç:** Kullanıcının "PetFix" uygulamasında arama yaparak istediği içeriği veya kullanıcıyı bulmasını sağlamak.
 
-**Aktörler: **Kullanıcı
+**Aktörler: ** Kullanıcı
 
 **Ön Koşullar:** Kullanıcı, "PetFix" uygulamasına başarılı bir şekilde giriş yapmış olmalıdır.
 
@@ -261,7 +261,7 @@ Raporlama Sonrası İletişim: Kullanıcı, raporlama işleminden sonra rahatsı
 6. Kullanıcı, arama sonuçları arasında gezinir ve istediği içeriği veya kullanıcıyı bulur.
 **Alternatif Akışlar:**
 
-**Yetersiz Sonuçlar: **Kullanıcı, arama sonuçlarının yetersiz veya istenmeyen olduğunu düşünürse, arama terimlerini veya stratejisini değiştirerek yeniden arama yapabilir.
+**Yetersiz Sonuçlar: ** Kullanıcı, arama sonuçlarının yetersiz veya istenmeyen olduğunu düşünürse, arama terimlerini veya stratejisini değiştirerek yeniden arama yapabilir.
 **Sonuçlar:** Kullanıcı, "PetFix" uygulamasında başarılı bir şekilde arama yaparak istediği içeriği veya kullanıcıyı bulur.
 
 ------------
@@ -274,9 +274,9 @@ Raporlama Sonrası İletişim: Kullanıcı, raporlama işleminden sonra rahatsı
 
 **Amaç:** Kullanıcının "PetFix" uygulamasında yaptığı arama sonuçlarını belirli kriterlere göre filtrelemesini sağlamak.
 
-**Aktörler: **Kullanıcı
+**Aktörler: ** Kullanıcı
 
-**Ön Koşullar: **Kullanıcı, "PetFix" uygulamasına başarılı bir şekilde giriş yapmış ve arama yapmış olmalıdır.
+**Ön Koşullar: ** Kullanıcı, "PetFix" uygulamasına başarılı bir şekilde giriş yapmış ve arama yapmış olmalıdır.
 
 **Temel Akış:**
 
@@ -289,7 +289,7 @@ Raporlama Sonrası İletişim: Kullanıcı, raporlama işleminden sonra rahatsı
 **Alternatif Akışlar:**
 
 **Filtreleme Kaldırma:** Kullanıcı, filtreleme kriterlerini değiştirmek veya kaldırmak isterse, "Filtreleme Kaldır" veya benzeri bir seçeneği tıklayarak filtrelemeyi kaldırabilir.
-**Sonuçlar: **Kullanıcı, "PetFix" uygulamasında yaptığı arama sonuçlarını belirli kriterlere göre filtreleyerek istediği içeriği daha kolay bulur.
+**Sonuçlar: ** Kullanıcı, "PetFix" uygulamasında yaptığı arama sonuçlarını belirli kriterlere göre filtreleyerek istediği içeriği daha kolay bulur.
 
 ------------
 

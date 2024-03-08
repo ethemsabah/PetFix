@@ -23,6 +23,7 @@ Temel Akış:
 Alternatif Akışlar:
 
 Kullanıcı Zaten Hesap Sahibi: Kullanıcı zaten bir hesap sahibi ise, kaydolma adımları atlanır ve kullanıcı giriş yapar.
+
 Sonuçlar: Kullanıcı başarılı bir şekilde "PetFix" uygulamasına kaydolur ve uygulamayı kullanmaya başlar.
 
 ------------

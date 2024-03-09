@@ -2,7 +2,7 @@
 
 #### 1. Giriş Yapma:
 
-Kullanıcıların uygulamaya erişebilmek için kimlik doğrulama sürecini tamamlamalarını sağlayan işlevi ifade eder. Bu işlev, kullanıcıların kayıtlı hesaplarına giriş yapmalarını ve uygulamanın özelliklerine erişmelerini sağlar. Giriş yapma işlemi, kullanıcıların güvenli bir şekilde platforma erişmelerini ve kişisel verilerinin korunmasını sağlar.
+Bu işlev, kullanıcıların uygulamaya erişebilmelerini sağlamak amacıyla kimlik doğrulama sürecini tamamlamalarını gerektirir. Kullanıcılar, kayıtlı hesaplarına giriş yaparak uygulamanın sunduğu özelliklere erişebilirler. Giriş yapma işlemi, kullanıcıların platforma güvenli bir şekilde erişmelerini sağlayarak kişisel verilerinin korunmasına yardımcı olur. Bu süreç, kullanıcıların kimliklerinin doğrulanmasını sağlayarak, yalnızca yetkili kişilerin platforma erişmesini sağlar ve güvenlik açısından önemli bir adımdır.
 
 #### 2. Profil Oluşturma:
 

@@ -38,8 +38,8 @@
 ------------
 
 ## Gereksinim Dağılımları 
-1. [Ethem Sabah'ın Gereksinimleri]()
-2. [İclal Çetin'in Gereksinimleri]()
-3.  [ Muhammet İkbal Sağdıç'ın Gereksinimleri]()
-4. [ Zehra Gültekin'in Gereksinimleri]()
-5. [Melahat Başar'ın Gereksinimleri]()
+1. [Ethem Sabah'ın Gereksinimleri](EthemSabah.md)
+2. [İclal Çetin'in Gereksinimleri](İclalCetin.md)
+3.  [ Muhammet İkbal Sağdıç'ın Gereksinimleri](MuhammetİkbalSagdic.md)
+4. [ Zehra Gültekin'in Gereksinimleri](ZehraGültekin.md)
+5. [Melahat Başar'ın Gereksinimleri](MelahatBasar.md)

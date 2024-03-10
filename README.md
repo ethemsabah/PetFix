@@ -31,7 +31,7 @@ Ethem Sabah, Muhammet İkbal Sağdıç, İclal Çetin, Zehra Gültekin, Melahat 
 ------------
 1. [Proje Planı](ProjePlani.md)
 2. [Gereksinim Analizi](GereksinimAnalizi.md)
-3. [Durum Diyagramı]()
+3. [Durum Diyagramı](DurumDiyagramı.md)
 4. [Durum Senaryoları](DurumSenaryoları.md)
 5. [Veritabanı Diyagramı](VeritabanıDiyagramı.md)
 6. [Front-End](FrontEnd.md)

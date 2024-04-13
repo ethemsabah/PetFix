@@ -26,7 +26,7 @@ PetFix
 ------------
 
 #### Proje Ekibi:
-Ethem Sabah, Muhammet İkbal Sağdıç, İclal Çetin, Zehra Gültekin, Melahat Başar
+[Ethem Sabah](EthemSabah.md), [Muhammet İkbal Sağdıç](MuhammetİkbalSagdic.md), [İclal Çetin](İclalCetin.md), [Zehra Gültekin](ZehraGültekin.md), [Melahat Başar](MelahatBasar.md)
 
 ------------
 1. [Proje Planı](ProjePlani.md)

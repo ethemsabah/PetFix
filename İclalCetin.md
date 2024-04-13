@@ -10,5 +10,5 @@
 
 5. [Sahiplendirme Formundan Silme](UseCases/sahiplendirme_formundan_silme.pdf)
 
-6. [Sahiplendirme Formunda Güncelleme](UseCases/sahiplendirme_formunda_güncelleme.pdf)
+6. [Sahiplendirme Formunda Güncelleme](UseCases/sahiplendirme_formunda_günceleme.pdf)
 

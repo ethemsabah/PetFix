@@ -4,7 +4,7 @@
 
 2. [Gönderi Ekleme](UseCases/gönderi_ekleme.pdf)
 
-3. [Gönderi Güncelleme](UseCases/gönderi_guncelleme.pdf)
+3. [Gönderi Güncelleme](UseCases/gönderi_güncelleme.pdf)
 
 4. [Gönderi Listeleme](UseCases/gönderi_listeleme.pdf)
 

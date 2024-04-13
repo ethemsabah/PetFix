@@ -1,1 +1,1 @@
-
+![](PNG/DurumDiyagramı.png)

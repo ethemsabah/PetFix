@@ -8,7 +8,7 @@
 
  4. [Eşleştirme Formuna Ekleme](UseCases/Eslestirme_formuna_ekleme.pdf)
 
- 5. [Eşleştirme Formundan Silme](Eslestirme_formundan_silme.pdf)
+ 5. [Eşleştirme Formundan Silme](UseCases/Eslestirme_formundan_silme.pdf)
 
- 6. [Eşleştirme Formunda Güncelleme](Eslestirme_formunda_güncelleme.pdf)
+ 6. [Eşleştirme Formunda Güncelleme](UseCases/Eslestirme_formunda_guncelleme.pdf)
 

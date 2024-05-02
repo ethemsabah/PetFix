@@ -1,1 +1,1 @@
-![](PNG/VeriTabaniDiyagramı.png)
+![](../PNG/VeriTabaniDiyagramı.png)

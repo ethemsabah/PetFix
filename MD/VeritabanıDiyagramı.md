@@ -1,0 +1,1 @@
+![](PNG/VeriTabaniDiyagramı.png)

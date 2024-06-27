@@ -1,25 +1,30 @@
 # Muhammet İkbal Sağdıç'ın Gereksinimleri:
 
-#### 1. Giriş Yapma:
+1. **Giriş Yapma**
+   - [Görev İçeriği](../UseCases/giris_yapma.pdf)
+   - [İlgili Kod Sayfası](../Desktop/Petfix/PetFix/lib/pages/loginscreens/login_page.dart)
 
-Kullanıcıların uygulamaya erişebilmek için kimlik doğrulama sürecini tamamlamalarını sağlayan işlevi ifade eder. Bu işlev, kullanıcıların yetkilendirilmiş erişim elde etmelerini sağlar.
+2. **Gönderi Ekleme**
+   - [Görev İçeriği](../UseCases/gönderi_ekleme.pdf)
+   - [İlgili Kod Sayfası](../Desktop/Petfix/PetFix/lib/addpost/addpost.dart)
 
-#### 2. Profil Oluşturma:
+3. **Gönderi Güncelleme**
+   - [Görev İçeriği](../UseCases/gönderi_güncelleme.pdf)
+   - [İlgili Kod Sayfası](../Desktop/Petfix/PetFix/lib/addpost/updatepage.dart)
 
-Kullanıcıların kişisel profillerini oluşturabilmelerini sağlayan işlevi ifade eder. Bu işlev, kullanıcıların adlarını, fotoğraflarını, biyografilerini ve diğer ilgili bilgilerini ekleyerek kendi profillerini özelleştirmelerine olanak tanır. Bu sayede kullanıcılar, diğer kullanıcılarla etkileşime geçebilir ve içeriklerini paylaşabilirler.
+4. **Gönderi Listeleme**
+   - [Görev İçeriği](../UseCases/gönderi_listeleme.pdf)
+   - İlgili Kod Sayfaları:
+     - [home_screen.dart](../Desktop/Petfix/PetFix/lib/addpost/home_screen.dart)
+     - [fullscreen.dart](../Desktop/Petfix/PetFix/lib/onboardingscreens/fullscreen.dart)
+     - [pagewiew.dart](../Desktop/Petfix/PetFix/lib/onboardingscreens/pagewiew.dart)
 
-#### 3. Gönderi Listeleme:
+5. **Gönderi Silme**
+   - [Görev İçeriği](../UseCases/gönderi_silme.pdf)
+   - [İlgili Kod Sayfası](../Desktop/Petfix/PetFix/lib/addpost/editpost.dart)
 
-Kullanıcıların gönderileri listeleyebilmelerini sağlayan işlevi ifade eder. Bu işlev, kullanıcıların paylaşılan içerikleri görüntülemelerine ve keşfetmelerine olanak tanır.
-
-#### 4. Gönderi Ekleme:
-
-Kullanıcıların kendi içeriklerini paylaşabilmelerini sağlayan işlevi ifade eder. Bu işlev, kullanıcıların fotoğraf, video veya metin gibi içeriklerini platformda paylaşmalarına olanak sağlar.
-
-#### 5. Gönderi Silme:
-
-Kullanıcıların kendi gönderilerini veya içeriklerini silmelerini sağlayan işlevi ifade eder. Bu işlev, kullanıcıların istenmeyen içerikleri kaldırmalarına ve hesaplarını yönetmelerine olanak sağlar.
-
-#### 6. Gönderi Güncelleme:
-
-Kullanıcıların daha önce paylaştıkları içerikleri güncellemelerini sağlayan işlevi ifade eder. Bu işlev, kullanıcıların var olan içeriklerini düzenlemelerine ve güncel bilgileri veya resimleri eklemelerine olanak sağlar.
+6. **Profil Oluşturma**
+   - [Görev İçeriği](../UseCases/profil_olusturma.pdf)
+   - İlgili Kod Sayfaları:
+     - [profilescreen.dart](../Desktop/Petfix/PetFix/lib/pages/user/profilescreen.dart)
+     - [profilscreendetail.dart](../Desktop/Petfix/PetFix/lib/pages/user/profilscreendetail.dart)

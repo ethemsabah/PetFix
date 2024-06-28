@@ -42,7 +42,7 @@
 
 7-**Sahiplendirme Formu Güncelleme**
 
--[Görev İçeriği](../UseCases/sahiplendirme_formunda_güncelleme.pdf)
+-[Görev İçeriği](../UseCases/sahiplendirme_formunda_günceleme.pdf)
 
 -[Kod Sayfası](Petfix/PetFix/lib/pages/Adoption/adoption.dart)
 

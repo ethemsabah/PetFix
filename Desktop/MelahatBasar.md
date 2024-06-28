@@ -2,7 +2,7 @@
 
 -[Görev İçeriği](../UseCases/sifre_guncelleme.pdf)
 
--[Kod Sayfası](../Petfix/PetFix/lib/pages/loginscreens/passwordchange.dart)
+-[Kod Sayfası](Petfix/PetFix/lib/pages/loginscreens/passwordchange.dart)
 
 
 2-**Biyografi Bağlantı**
